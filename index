@@ -1,1 +1,35 @@
-
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+<title>Michał Skierski</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="kontener">
+	<div id="naglowek">
+		<h1>Michał Skierski</h1>
+	</div>
+	<div id="menu_gorne">
+		<ul>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="portfolio.html">Portfolio</a></li>
+			<li><a href="omnie.html">O mnie</a></li>
+			<li><a href="kontakt.html">Kontakt</a></li>
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<img src="images/michal.jpg" width="350" height="351">
+	<div id="tresc">
+		<h2>Cześć Wam!</h2>
+		<p>Serdecznie witam wszystkich odwiedzających moją nową stronę.</p>
+		<p>Jestem specjalistą z wieloletnim doświadczeniem z obszaru komunikacji, zarządzania kryzysowego i marketingu.</p>
+		<p>Prywatnie czytam tony książek, pożeram kino europejskie oraz bywam na maksymalnej liczbie festiwali. Kolekcjonuję płyty winylowe.</p>
+		<p>Lubię pływać, jeździć na nartach i rowerze. Staram się regularnie grać w tenisa i squasha.</p>
+		<p>Na mojej stronie możecie zapoznać się z moim portfolio oraz życiorysem. W każdej chwili możecie się ze mną skontaktować poprzez formularz, e-mail lub telefon.</p>
+		<p>Serdecznie zapraszam do współpracy!</p>
+	<div id="stopka">&copy Michał Skierski 2015</div>
+	
+</div>
+</body>
+</html>
