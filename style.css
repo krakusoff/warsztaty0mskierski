@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #FFFFFF;
+	color: #080603;
+	font-size: 12px;
+	font-family: Arial, Tahoma, Sans-Serif;
+	text-align: center;
+}
+
+a {
+	color: #3B2DOD;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.clear {
+	clear: both;
+}
+	
+#kontener {
+	width: 900px;
+	margin: 5px auto;
+	text-align: left;
+	background: #DAE3F1;
+	border: 1px solid #B59E6B;
+}
+
+#naglowek {
+	background: #243D6B;
+	border-bottom: 1px solid #B59E6B;
+	color: #FBFCFE;
+}
+
+#naglowek h1 {
+	margin: 0;
+	text-align: center;
+	padding: 10px 0;
+}
+
+#menu_gorne {
+	background: #FFFFFF;
+	border-bottom: 1px solid #B59E6B;
+	padding 0 10px;
+}
+
+#menu_gorne ul, #menu_gorne li {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu_gorne li {
+	float: left;
+}
+
+#menu_gorne a {
+	display: block;
+	padding: 5px 10px;
+}
+
+#menu_gorne a:hover {
+	background: #DBCBA7;
+}
+
+#tresc {
+	float: right;
+	width: 530;
+	padding: 10px;
+}
+
+#zyciorys {
+	float: right;
+	width: 430;
+	padding: 10px;
+}
+
+#kontakt {
+	float: right;
+	width: 430;
+	padding: 10px;
+}
